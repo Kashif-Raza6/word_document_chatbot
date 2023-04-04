@@ -1,0 +1,9 @@
+langchain
+openai
+unstructured
+pillow
+transformers
+torch
+bs4
+Flask
+flask_restful

@@ -1,0 +1,49 @@
+What is the highest ANC Coverage (4 visits)? The highest ANC Coverage (4 visits) value recorded in the data is 54.9 in Olorunda LGA in 2016.
+
+What is the average ANC Coverage (4 visits) value for Yusufari LGA? The average ANC Coverage (4 visits) value for Yusufari LGA is 12.88.
+
+Which location has the lowest average ANC Coverage (4 visits) value? Olamaboro LGA has the lowest average ANC Coverage (4 visits) value of 3.65.
+
+In which year was the highest ANC Coverage (4 visits) value recorded? The highest ANC Coverage (4 visits) value was recorded in 2016.
+
+How many locations are included in this data set? There are 7 locations included in this data set: Yusufari LGA, Yorro LGA, Yewa-South LGA, Yewa-North LGA, Yankwashi LGA, Yala LGA and Yakuur LGA.
+
+What is the lowest ANC Coverage (4 visits) value recorded in the data? The lowest ANC Coverage (4 visits) value recorded in the data is 0.4 in Yusufari LGA in 2013.
+
+What is the average ANC Coverage (4 visits) value for Yorro LGA? The average ANC Coverage (4 visits) value for Yorro LGA is 8.77.
+
+Which location has the highest average ANC Coverage (4 visits) value? Olorunda LGA has the highest average ANC Coverage (4 visits) value of 30.35.
+
+In which year was the lowest ANC Coverage (4 visits) value recorded? The lowest ANC Coverage (4 visits) value was recorded in 2013.
+
+How many years are included in this data set? There are 7 years included in this data set: 2013, 2014, 2015, 2016, 2017, 2018 and 2019.
+
+What is the range of ANC Coverage (4 visits) values for Yusufari LGA? The range of ANC Coverage (4 visits) values for Yusufari LGA is from 0.4 to 25.3.
+
+What is the median ANC Coverage (4 visits) value for Yorro LGA? The median ANC Coverage (4 visits) value for Yorro LGA is 6.9.
+
+What is the mode ANC Coverage (4 visits) value for Yewa-South LGA? The mode ANC Coverage (4 visits) value for Yewa-South LGA is 23.1.
+
+Which location has the smallest range of ANC Coverage (4 visits) values? Yakuur LGA has the smallest range of ANC Coverage (4 visits) values from 10.6 to 13.3.
+
+In which year was the highest average ANC Coverage (4 visits) value recorded? The highest average ANC Coverage (4 visits) value was recorded in 2016.
+
+In which year was the lowest average ANC Coverage (4 visits) value recorded? The lowest average ANC Coverage (4 visits) value was recorded in 2013.
+
+What is the total number of records in this data set? There are a total of 24 records in this data set.
+
+What is the standard deviation of ANC Coverage (4 visits) values for Yusufari LGA? The standard deviation of ANC Coverage (4 visits) values for Yusufari LGA is approximately 10.45.
+
+What is the source of the data? The source of the data is NHMIS-DHIS2.
+
+What is the sub-dashboard for this data? The sub-dashboard for this data is Health Outcomes.
+
+What is the value type for this data? The value type for this data is Routine.
+
+Which location has the most records in this data set? Yusufari LGA has the most records in this data set with 5 records.
+
+Which location has the fewest records in this data set? Yala LGA has the fewest records in this data set with only 1 record.
+
+In which year were the most records recorded? The most records were recorded in 2018 with 4 records.
+
+In which year were the fewest records recorded? The fewest records were recorded in 2019 with only 2 records.
